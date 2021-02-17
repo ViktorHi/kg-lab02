@@ -1,5 +1,5 @@
 # Graphic Reader (Lab 02)
-Symple application provide opportunities to choose folder with file of competitive formats and watch metadate.
+A simple application provides the ability to select a folder with a file of certain formats and view the metadata.
 ### Supported formats
 * .jpg
 * .png
